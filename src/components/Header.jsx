@@ -8,12 +8,12 @@ const Header = () => {
       Get up to 12 months of No Cost EMI◊ plus up to ₹8000.00 instant cashback‡ on selected products with eligible cards.{' '}
       <a href="#" className="text-blue-500 underline hover:text-blue-700">Shop</a>
     </p>
-<hearder 
+<header 
 className='w-full h-screen bg-cover bg-center flex items-center justify-center text-white'
 style={{backgroundImage: "url('/img/APPLE-AIRPODS.jpg')"}} >
 {/* <h1 className='text-4xl font-bold bg-black/50 rounded-lg backdrop-blur-sm p-4'>🚀Welcom to MyWebsite</h1> */}
 <button className='mt-6 px-6 py-3 border-2 border-blue-500 text-blue-700 bg-transparent font-semibold rounded-full hover:bg-blue-500 hover:text-white transition'>Shop</button>
-</hearder>
+</header>
 
  {/* Section 1 */}
      <section
